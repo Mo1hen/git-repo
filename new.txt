@@ -1,5 +1,4 @@
-print: new feature
-new line in new.txt
-
-print('hello')
-print('input')
+print: new feature;
+new line in new.txt;
+print('hello');
+print('input');
