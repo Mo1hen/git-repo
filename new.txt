@@ -1,2 +1,2 @@
-print: new feature
-new line in new.txt
+print: new feature;
+new line in new.txt;
